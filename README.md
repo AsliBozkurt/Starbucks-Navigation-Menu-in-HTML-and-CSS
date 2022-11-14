@@ -6,3 +6,8 @@ Create Starbucks Navigation menu with HTML and CSS
 ![Uygulama Ekran Görüntüsü 1](https://github.com/AsliBozkurt/Starbucks-Navigation-Menu-in-HTML-and-CSS/blob/main/starbucks_nav_menu1.png)
 ![Uygulama Ekran Görüntüsü 2](https://github.com/AsliBozkurt/Starbucks-Navigation-Menu-in-HTML-and-CSS/blob/main/starbucks_nav_menu2.png)
 ![Uygulama Ekran Görüntüsü 3](https://github.com/AsliBozkurt/Starbucks-Navigation-Menu-in-HTML-and-CSS/blob/main/starbucks_nav_menu3.png)
+
+## Yazarlar ve Teşekkür
+
+- [@AsliBozkurt](https://github.com/AsliBozkurt) tasarım ve geliştirme için.
+
